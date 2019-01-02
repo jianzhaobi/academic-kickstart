@@ -13,7 +13,7 @@ title = "Jianzhao Bi"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Jianzhao Bi"
-  role = "Ph.D. Student of Environmental Health"
+  role = "Ph.D. Candidate of Environmental Health"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -255,7 +255,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:jianzhao.bi@emory.edu"  # For a direct email link, use "mailto:test@example.org".
 
   # [[params.social]]
   #  icon = "twitter"
