@@ -25,18 +25,24 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Proficient"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Proficient" 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Proficient"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "hospital"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Epidemiology"
+  description = "Moderate"
 
 +++
