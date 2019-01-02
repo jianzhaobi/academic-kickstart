@@ -38,11 +38,23 @@ weight = 7
   icon_pack = "fas"
   name = "Statistics"
   description = "Proficient"  
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "MATLAB"
+  description = "Proficient"
   
 [[feature]]
   icon = "hospital"
   icon_pack = "fas"
   name = "Epidemiology"
   description = "Moderate"
+
+[[feature]]
+  icon = "atlas"
+  icon_pack = "fas"
+  name = "GIS"
+  description = "Proficient"
 
 +++
