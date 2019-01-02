@@ -28,7 +28,7 @@ weight = 7
   description = "Proficient"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "network-wired"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Proficient" 
