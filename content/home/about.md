@@ -36,4 +36,8 @@ weight = 5
 +++
 
 # Biography
-As a PhD Candidate of environmental health at Emory University, my research primarily focus on PM2.5 modeling, *i.e.,* predicting PM2.5 in which there is no ground monitoring stations based on satellite aerosol optical depth (AOD) retrievals. I have interdisciplinary backgrounds of photogrammetry, remote sensing, geographic information system (GIS), and atmosperic science, which help me to understand and discover the satellite-based PM2.5 prediction more deeply. I am also interest in programming, proficient in R, MATLAB and C++, which has strongly increased the efficiency and possibility of my research. 
+As a PhD Candidate of environmental health at Emory University, my research primarily focus on PM2.5 modeling, *i.e.,* predicting PM2.5 in which there is no ground monitoring stations based on satellite aerosol optical depth (AOD) retrievals. 
+
+I have interdisciplinary backgrounds of photogrammetry, remote sensing, geographic information system (GIS), and atmosperic science, which help me to understand and discover the satellite-based PM2.5 prediction more deeply. 
+
+I am also interest in programming, proficient in R, MATLAB and C++, which has strongly increased the efficiency and possibility of my research. 
