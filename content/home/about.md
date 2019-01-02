@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "PM~2.5~ Prediction",
+    "Remote Sensing",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+ [[education.courses]]
+  course = "PhD Candidate in Environmental Health"
+  institution = "Emory University"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Atmospheric Science"
+  institution = "Tsinghua University"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Photogrammetry and Remote Sensing"
+  institution = "Wuhan University"
+  year = 2014
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+As a PhD Candidate of environmental health at Emory University, my research primarily focus on PM~2.5~ modeling, *i.e.,* predicting PM~2.5~ in which there is no ground monitoring stations based on satellite aerosol optical depth (AOD) retrievals. I have interdisciplinary backgrounds of photogrammetry, remote sensing, geographic information system (GIS), and atmosperic science, which help me to understand and discover the satellite-based PM~2.5~ prediction more deeply. I am also interest in programming, proficient in R, MATLAB and C++, which has strongly increased the efficiency and possibility of my research. 
