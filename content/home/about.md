@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "PM2.5 Prediction",
     "Remote Sensing",
-    "Machine Learning"
+    "Machine Learning",
+    "Statistics",
+    "Epidemiology"
   ]
 
 # List your qualifications (such as academic degrees).
