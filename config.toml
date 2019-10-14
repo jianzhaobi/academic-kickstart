@@ -261,6 +261,11 @@ enableGitInfo = false
   #  icon = "twitter"
   #  icon_pack = "fab"
   #  link = "https://twitter.com/GeorgeCushen"
+  
+  [[params.social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Jianzhao_Bi"
 
   [[params.social]]
     icon = "google-scholar"
